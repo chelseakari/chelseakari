@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chelsea</h1>
 <h3 align="center">A passionate full-stack developer from Taiwan, recently developing an interest in cybersecurity.</h3>
+<p align="center">
+  <img width="400" src="https://64.media.tumblr.com/238a2df841ce7318ab11e2a272f64738/403d03478a52e373-ce/s540x810/055d7c94a46ffbd6045baef97b69215d8ce850e9.gifv"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelseakari&label=Profile%20views&color=0e75b6&style=flat" alt="chelseakari" /> </p>
 
