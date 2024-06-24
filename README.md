@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelseakari&label=Profile%20views&color=0e75b6&style=flat" alt="chelseakari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelseakari" alt="chelseakari" /></a> </p>
-
 - 🔭 I’m currently working on **a music practice routine app**
 
 - 🌱 I’m currently learning **React Native, AWS, Linux**
