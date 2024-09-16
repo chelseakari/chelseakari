@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chelsea</h1>
-<h3 align="center">A CS student at UCI graduating in 2025. I'm interested in web dev and cybersecurity.</h3>
+<h3 align="center">A CS student at UCI graduating in 2025. I'm interested in full-stack development, and I'm open to learning new things.</h3>
 <p align="center">
   <img width="400" src="https://64.media.tumblr.com/238a2df841ce7318ab11e2a272f64738/403d03478a52e373-ce/s540x810/055d7c94a46ffbd6045baef97b69215d8ce850e9.gifv"/>
 </p>
@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **a music practice routine app**
 
-- 🌱 I’m currently learning **React Native, AWS, Linux**
+- 🌱 I’m currently learning **React Native, AWS**
 
 - 👨‍💻 All of my projects are available at [https://chelseakari.github.io/portfolio/](https://chelseakari.github.io/portfolio/)
-
-- 💬 Ask me about **react.js**
 
 - 📫 How to reach me **chelseachen211@gmail.com**
 
