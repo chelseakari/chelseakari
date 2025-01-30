@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chelseachen211@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16YMNbusZHdML8i_63X9OJwnmyLE2Xkrw/view?usp=sharing](https://drive.google.com/file/d/16YMNbusZHdML8i_63X9OJwnmyLE2Xkrw/view?usp=sharing)
+- 📄 Know about my experiences [Click for my resume](https://drive.google.com/file/d/16YMNbusZHdML8i_63X9OJwnmyLE2Xkrw/view?usp=sharing)
 
 - ⚡ Fun fact **I can speak fluent Japanese!**
 
