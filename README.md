@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelseakari&label=Profile%20views&color=0e75b6&style=flat" alt="chelseakari" /> </p>
 
-- 🔭 I’m currently working on **a music practice routine app**
-
-- 🌱 I’m currently learning **React Native, AWS**
-
 - 👨‍💻 All of my projects are available at [https://chelseakari.github.io/portfolio/](https://chelseakari.github.io/portfolio/)
 
 - 📫 How to reach me **chelseachen211@gmail.com**
