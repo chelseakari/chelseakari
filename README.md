@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chelsea</h1>
-<h3 align="center">A 4th year Computer Science student at UC Irvine graduating in June 2025. I'm interested in web development, but I'm always open to learning new things.</h3>
+<h3 align="center">A Computer Science alumnus from UC Irvine. I'm interested in web development, but I'm always open to learning new things!</h3>
 
 - 👨‍💻 See my projects at [https://chelseakari.github.io/portfolio/](https://chelseakari.github.io/portfolio/)
 
