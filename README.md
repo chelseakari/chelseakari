@@ -3,7 +3,7 @@
 
 - 👨‍💻 See my projects at [https://chelseakari.github.io/portfolio/](https://chelseakari.github.io/portfolio/)
 
-- 📄 Know about my experiences [Click for my resume](https://drive.google.com/file/d/16YMNbusZHdML8i_63X9OJwnmyLE2Xkrw/view?usp=sharing)
+- 📄 Know about my experiences [Click for my resume](https://drive.google.com/file/d/1z442u1fgxOJMghjG5MhDO1xvB9e5Ck7Y/view?usp=sharing)
 
 - ⚡ Fun fact **I can speak fluent Japanese!**
 
